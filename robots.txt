@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lightbryan26.github.io/jackson-electrical-c-c0949/sitemap.xml
+Sitemap: https://jackson-electrical-c-c0949.pages.dev/sitemap.xml
